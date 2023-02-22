@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0Chaudhary&theme=codeSTACK&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Ayush0Chaudhary&color=blueviolet&style=for-the-badge)
