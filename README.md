@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - Web Scrapping 
 
 
+![mystats](https://github.com/Ayush0Chaudhary/Ayush0Chaudhary/assets/95746190/dfecfa03-d3b5-4aef-b242-efe3a010e84d)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush0Chaudhary&theme=codeSTACKr&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0Chaudhary&theme=codeSTACK&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
