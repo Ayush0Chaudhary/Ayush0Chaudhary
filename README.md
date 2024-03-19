@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...-->
 <!--- 🤔 I’m looking for help with -->
-- 🌱 I know Flutter and Graphql
 - 👯 I’m looking to collaborate on anything intresting
 
 - 💬 Ask me about anything
