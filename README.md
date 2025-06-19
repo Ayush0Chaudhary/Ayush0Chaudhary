@@ -1,24 +1,33 @@
-
-### Hi there 👋
+### Hi there 👋 I'm Ayush Chaudhary
 ![](https://komarev.com/ghpvc/?username=Ayush0Chaudhary&color=blueviolet&style=for-the-badge)
 
-Here are some ideas to get you started:
-<!--
-- 🔭 I’m currently working on ...-->
-<!--- 🤔 I’m looking for help with -->
-- 👯 I’m looking to collaborate on anything intresting
+🚀 B.Tech Student at IIT Roorkee | Google Summer of Code '23 Contributor | Full-Stack & Mobile Developer
 
-- 💬 Ask me about anything
-- 📫 How to reach me: ayush0000ayush@gmail.com, [Website](https://ayush-27b05.web.app/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like high altitude trekking 
-- GSoC'23
-- Little game I made [Pipo](https://pipo-7550c.web.app/)
-- Web Scrapping 
+## 🔭 Current Projects
 
+- **Palm Recognition** - Biometric authentication system using palm features
+- **Purenet Browser** - Privacy-focused mobile browser with content filtering with 800 downloads on Playstore 
+- **Mobile Agent** - AI-powered phone automation system that can complete task based on your NLP instructions 
+- **GSOC Analyzer** - Tool to analyze GSoC project trends and statistics
 
-![mystats](https://github.com/Ayush0Chaudhary/Ayush0Chaudhary/assets/95746190/dfecfa03-d3b5-4aef-b242-efe3a010e84d)
+## 🛠️ Tech Stack
 
+# Languages
+Python | C++ | Dart | Kotlin | JavaScript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush0Chaudhary&theme=codeSTACKr&show_icons=true)
+# Frameworks & Tools  
+Flutter | React | Django | Node.js | Next.js | NestJS | MongoDB | Firebase | Docker
+
+📈 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=Ayush0Chaudhary&show_icons=true&theme=radical&count_private=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0Chaudhary&layout=compact&theme=radical
+
+🏆 Achievements
+Google Summer of Code '23 Contributor (Palisadoes Foundation)
+
+Developed Custom browser based on Firefox Android with 1000+ downloads
+
+Mentored 10+ teams in hackathons and coding programs
+
 
