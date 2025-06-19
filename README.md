@@ -26,7 +26,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0Chaudhary&l
 🏆 Achievements
 Google Summer of Code '23 Contributor (Palisadoes Foundation)
 
-Developed Custom browser based on Firefox Android with 1000+ downloads
+Developed Custom browser based on Firefox Android with 800+ downloads
 
 Mentored 10+ teams in hackathons and coding programs
 
